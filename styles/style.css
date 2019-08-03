@@ -1,0 +1,31 @@
+#log-in {
+    width: 90%;
+    text-align: right;
+    padding-left: 100px;
+     
+   
+}
+#google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 30%;
+    border-color: white;
+
+}
+#the-search-bar {
+ 
+    width: 100%;
+    text-align: center;
+}
+
+#input-search-bar {
+    background-color: transparent;
+    margin: 0 auto;
+    width: 35%;
+    display: inline-block;
+
+}
+
+
