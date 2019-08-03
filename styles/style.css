@@ -25,7 +25,29 @@
     margin: 0 auto;
     width: 35%;
     display: inline-block;
+    height: 30px;
 
 }
+#submit-buttons {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.button {
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
-
+.foot-div {
+    width: 100%;
+    background-color: whitesmoke;
+    position: fixed;
+    bottom : 0;
+    font-size: small;
+}
+.bottom-text {
+    text-decoration: silver;
+    color:silver;
+    
+}
