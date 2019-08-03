@@ -2,9 +2,21 @@
     width: 90%;
     text-align: right;
     padding-left: 100px;
-     
+    word-spacing: 15px;
+    color: black;
+    font-size: small;
    
 }
+#log-in a{
+    text-decoration: none;
+    color:black;
+}
+#log-in a:hover{
+    text-decoration: underline;
+    
+}
+
+
 #google-logo {
     display: block;
     margin-left: auto;
@@ -45,9 +57,16 @@
     position: fixed;
     bottom : 0;
     font-size: small;
+    color: rgba(0,0,0,.54);
 }
-.bottom-text {
-    text-decoration: silver;
-    color:silver;
+
+.foot-div a{
+    text-decoration: none;
+    color: rgba(0,0,0,.54);
     
 }
+.foot-div a:hover{
+    text-decoration: underline;
+}
+
+
